@@ -1,6 +1,6 @@
 # Battery Tester
 
-My 9 year old wanted to test different batteries for his science fair project.  Figured this would be a fun time to play with some dotnet core 6 running on a pi3 with a sensor and a screen.
+My 9 year old wanted to test different batteries for his science fair project.  Figured this would be a fun time to play with some dotnet core 6 running on a pi3 with a sensor and a screen. Most of this code was written by my child - figured it was a good time to get him to code something.
 
 Parts Requirements
 
