@@ -1,0 +1,3 @@
+[submodule "external/oled"]
+	path = external/oled
+	url = https://github.com/TWhidden/Oledi2cCore.git
