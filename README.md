@@ -29,4 +29,8 @@ Example Video
 
 _Yes, we know we could have put it to some nice expensive equipment to run some specific amount of current from the batteries, but my boy wanted to think of it like his RC cars, and how many times something could go around a race track. There may be some unknown variables here, but this is a 4th grade science project :) Its much cooler seeing a fan spinning._
 
-Results to follow:
+## Results
+
+![Graph Data](Docs/Graph.png)
+
+![Info Data](Docs/Comparison.png)
