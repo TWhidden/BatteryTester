@@ -25,7 +25,7 @@ Note: This project uses Visual Studios 2022 (which is new at the time of this wr
 
 Example Video
 
-[![Battery Tester Example](https://i9.ytimg.com/vi_webp/OpSDj8zTyMs/mqdefault.webp?v=61b64227&sqp=CICE2Y0G&rs=AOn4CLAKfFiadgZJddWw0xAdaYykdDPw6A)](https://youtu.be/OpSDj8zTyMs "Battery Tester Example")
+[![Battery Tester Example](Docs/YouTube.jpg)](https://youtu.be/OpSDj8zTyMs "Battery Tester Example")
 
 _Yes, we know we could have put it to some nice expensive equipment to run some specific amount of current from the batteries, but my boy wanted to think of it like his RC cars, and how many times something could go around a race track. There may be some unknown variables here, but this is a 4th grade science project :) Its much cooler seeing a fan spinning._
 
